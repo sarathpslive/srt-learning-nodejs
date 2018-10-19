@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/sarathpslive/srt_learning-nodejs/issues"
   },
-  "homepage": "https://github.com/sarathpslive/srt_learning-nodejs#readme"
+  "homepage": "https://github.com/sarathpslive/srt_learning-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
 }
